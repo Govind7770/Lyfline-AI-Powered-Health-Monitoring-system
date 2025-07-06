@@ -203,13 +203,7 @@ We welcome contributions from the community! Please follow these steps to contri
 4. **Push to your branch** (`git push origin feature-branch`).
 5. **Open a pull request**.
 
----
 
-## 📧 Contact
-
-For questions or support, please reach out to:  
-**Email**: [desh.arjun3@gmail.com](mailto:desh.arjun3@gmail.com)  
-**GitHub**: [ZEUS33776](https://github.com/ZEUS33776)
 
 ---
 
